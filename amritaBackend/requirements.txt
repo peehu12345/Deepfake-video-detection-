@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+tensorflow
+numpy
+pillow
+librosa
+opencv-python
+firebase-admin
+python-multipart
+pyjwt
+passlib[argon2]
+scikit-learn
+soundfile
+absl-py
+pydantic
