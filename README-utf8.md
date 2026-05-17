@@ -1,4 +1,4 @@
-﻿# 🚀 Project Setup Guide
+# 🚀 Project Setup Guide
 1. Clone the Repository
 git clone https://github.com/peehu12345/Deepfake-video-detection-.git
 cd Deepfake-video-detection-
@@ -6,7 +6,7 @@ cd Deepfake-video-detection-
 
 ### 1️⃣ Go to Backend Folder
 ```bash
-cd amritaBackend
+cd backend
 2️⃣ Create Virtual Environment
 
 Windows:
