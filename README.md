@@ -11,6 +11,7 @@ cd backend
 
 Windows:
 
+
 python -m venv venv
 
 
@@ -27,7 +28,7 @@ Windows:
 
 Mac / Linux:
 
-source venv/bin/activate
+source venv/bin/activate      
 
 4️⃣ Install Dependencies
 pip install -r requirements.txt
@@ -54,4 +55,4 @@ npm install
 npm run dev
 
 
-Frontend will run on 👉 http://localhost:5173
+Frontend will run on 👉 http://localhost:5173       
