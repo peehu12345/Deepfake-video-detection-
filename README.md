@@ -1,7 +1,7 @@
 # 🚀 Project Setup Guide
 1. Clone the Repository
 git clone https://github.com/peehu12345/Deepfake-video-detection-.git
-cd Deepfake-video-detection-
+cd Deepfake-video-detection----
 ## 🧠 Backend Setup (FastAPI)
 
 ### 1️⃣ Go to Backend Folder
